@@ -1,0 +1,40 @@
+.match-card {
+  background: linear-gradient(45deg, #4589e2, #0d0b0b);
+  
+}
+.divmain{
+    margin: 1rem;
+    /* padding: 2rem; */
+}
+.match-team {
+  font-size: 1.2rem;
+  color: white;
+}
+
+.match-img {
+  width: 85px;
+}
+
+.match-btn-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.match-btn {
+  margin-right: 10px;
+  text-transform: none;
+  /* color: antiquewhite !important; */
+}
+.btn-st{
+    color: antiquewhite !important;
+}
+.match-btn-primary {
+  border-color: white !important;
+  color: white !important;
+}
+
+.match-btn-secondary {
+  border-color: red !important;
+  color: red !important;
+}
